@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="500" key="dialogHeight"/>
+		<item value="800" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/rebeccajiang/Downloads"/>
+			<item value="/Users/rebeccajiang/Documents/422C/Program2"/>
+			<item value="/Users/rebeccajiang/Documents/422C/Program2/src"/>
+			<item value="/Users/rebeccajiang/Downloads/drive-download-20161021T051959Z"/>
+			<item value="/Users/rebeccajiang/Documents/422C/Software-Design-Java/Lab4-CrittersPart1/src/assignment4"/>
+			<item value="/Users/rebeccajiang/Desktop/Software-Design-Java/Lab4-CrittersPart1/src/assignment4"/>
+			<item value="/Users/rebeccajiang/Downloads/Samples"/>
+			<item value="/Users/rebeccajiang/Desktop/temp422C/ee422c"/>
+			<item value="/Users/rebeccajiang/Downloads/StarterCode"/>
+			<item value="/Users/rebeccajiang/Desktop/ee422c"/>
+			<item value="/Users/rebeccajiang/Downloads/StarterCode/student_inputs/small_inputs"/>
+		</list>
+	</section>
+</section>

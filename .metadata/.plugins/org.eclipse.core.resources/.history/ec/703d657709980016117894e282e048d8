@@ -1,0 +1,27 @@
+package assignment4;
+import assignment4.Critter.TestCritter;
+/*
+ * MyCritter69 runs in a random direction if it has energy greater than 10 and walks otherwise
+ * Never fights because he is not violent
+ * @author Rebecca Jiang
+ */
+public class MyCritter69 extends TestCritter {
+	
+	@Override
+	public void doTimeStep() {
+		if(this.getEnergy() > 10)
+			run(getRandomInt(8));
+		else walk(getRandomInt(8));
+	}
+
+	@Override
+	public boolean fight(String opponent) {
+		
+		return false;
+	}
+
+	@Override
+	public String toString () {
+		return "$";
+	}
+}

@@ -1,0 +1,15 @@
+/* 
+ * This file is how you might test out your code.  Don't submit this, and don't 
+ * have a main method in SortTools.java.
+ */
+
+package assignment1;
+public class Main {
+	public static void main(String [] args) {
+		SortTools tools = new SortTools();
+		int x[] = {1, 2, 3, 4, 3};
+		// call your test methods here
+		System.out.println(tools.isSorted(x, 5));
+		
+	}
+}
